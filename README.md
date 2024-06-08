@@ -6,7 +6,7 @@ The TFHT01 hygrometer sensor offers flexible integration options. It can be dire
 
 Sensors mounted on UAVs can be used for a variety of purposes. TFHT01 can measure air temperature and humidity, which can be used for meteorological purposes to estimate whether icing may form on aerodynamic surfaces. It could also be used to determine if the flight is conducted within the operating range of the drone. Another use can be to measure the temperature of selected UAV components, for example, the temperature of batteries, ESC, motor, or some bearings. 
 
-![TFHT01A top view](/doc/img/TFHT01A2.jpg)
+![TFHT01A top view](/doc/img/tfht01B_small.png)
 
 ## Where to get it?
 
