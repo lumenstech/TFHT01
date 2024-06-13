@@ -1,5 +1,8 @@
+
+
 # TFHT01 - UAV Humidity and Temperature Sensor
 
+<a href="https://certification.oshwa.org/cz000010.html" title="Open Source Hardware Association Certificate"><img align="right" src="https://github.com/ThunderFly-aerospace/TFHT01/assets/5196729/b0df7c2c-4afa-4363-931a-d4acda329d87" width="15%" alt="Open Source Hardware Association Certificate"></a>
 [![Kicad](https://github.com/ThunderFly-aerospace/TFHT01/actions/workflows/kicad_outputs.yml/badge.svg?branch=TFHT01B)](https://github.com/ThunderFly-aerospace/TFHT01/actions/workflows/kicad_outputs.yml)
 
 The TFHT01 hygrometer sensor offers flexible integration options. It can be directly connected to a Pixhawk autopilot with PX4 firmware, or it can be used as a sensor for the [TF-ATMON monitoring system](https://www.thunderfly.cz/tf-atmon.html).
